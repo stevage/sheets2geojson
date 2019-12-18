@@ -10,5 +10,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "d3-fetch": "^1.1.2"
-  },"files": ["index.js"]
+  },"files": ["index.js"],
+  "repository": "https://github.com/stevage/sheets2geojson.git"
 }
