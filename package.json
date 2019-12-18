@@ -1,6 +1,6 @@
 {
   "name": "sheets2geojson",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fetch a published Google Sheet, convert to GeoJSON",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
   "license": "Apache-2.0",
   "dependencies": {
     "d3-fetch": "^1.1.2"
-  },"files": ["index.js"],
+  },
+  "files": [
+    "index.js"
+  ],
   "repository": "https://github.com/stevage/sheets2geojson.git"
 }
