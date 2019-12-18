@@ -12,5 +12,5 @@ To call:
 
 ```js
 import { sheets2geojson } from 'sheets2geojson';
-const geojson = await sheets2geojson(id, ?{ latitudeColumn: 'lat', longitudeColumn: 'lng' });
+const geojson = await sheets2geojson(id, /* optional */{ latitudeColumn: 'lat', longitudeColumn: 'lng' });
 ```
